@@ -1,0 +1,39 @@
+.active{
+  color: green;
+  background-color: aqua;
+}
+#logo{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+#formBody{
+  margin-left: 30px;
+  margin-top: 50px;
+}
+.row{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+#form{
+  margin-top:50px;
+  margin-left: 330px;
+  margin-right: 330px;
+  background-color: aqua;
+  border: 2px;
+  height: 350px;
+}
+#id{
+  background-color: blue;
+}
+
+.navbar{
+	color: blue;
+	background-color: antiquewhite;
+}
+
+#heading
+{
+
+	text-align: center;
+}
